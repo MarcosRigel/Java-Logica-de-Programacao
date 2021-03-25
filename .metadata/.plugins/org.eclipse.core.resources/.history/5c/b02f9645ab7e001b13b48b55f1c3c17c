@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int x = sc.nextInt();
+		
+		System.out.println(x);
+		int divisao1 = x / 100;
+		System.out.println(divisao1);
+		int divisao2 = x / 50;
+		System.out.println(divisao2);
+		int divisao3 = x / 20;
+		System.out.println(divisao3);
+		int divisao4 = x / 10;
+		System.out.println(divisao4);
+		int divisao5 = x / 5;
+		System.out.println(divisao5);
+		int divisao6 = x / 2;
+		System.out.println(divisao6);
+		int divisao7 = x / 1;
+		
+		sc.close();
+	}
+
+}
