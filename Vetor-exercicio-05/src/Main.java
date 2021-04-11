@@ -1,15 +1,3 @@
-/* Fazer um programa para ler um vetor de N números inteiros. Em seguida, mostrar na tela a média aritmética somente
- * dos números pares lidos.
- * 
- * Exemplos
- * ------------------------------------------------------------
- * Entrada										Saida
- * ------------------------------------------------------------
- * 6											11.0
- * 8 2 11 14 13 20
- * 
- */
-
 import java.util.Locale;
 import java.util.Scanner;
 
