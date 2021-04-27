@@ -1,12 +1,13 @@
 INDEX VERSION 1.131+C:\Users\Rigel\Documents\URI Online Judge + exercicios\Java\.metadata\.plugins\org.eclipse.jdt.core
+3026519941.index
 3068512991.index
 1602645994.index
 2952723358.index
 1212602009.index
-2978483910.index
+397032756.index
 643487566.index
 3532197851.index
-397032756.index
+2978483910.index
 3876652588.index
 1491839987.index
 1184718507.index
@@ -23,9 +24,9 @@ INDEX VERSION 1.131+C:\Users\Rigel\Documents\URI Online Judge + exercicios\Java\
 4274624513.index
 3751022353.index
 1365108696.index
-2564955948.index
 1904327193.index
 2016933426.index
+2564955948.index
 3640249096.index
 2677005109.index
 1106287282.index
