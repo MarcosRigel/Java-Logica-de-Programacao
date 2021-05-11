@@ -10,10 +10,10 @@ INDEX VERSION 1.131+C:\Users\Rigel\Documents\URI Online Judge + exercicios\Java 
 3532197851.index
 2978483910.index
 3751022353.index
-3068512991.index
-1106287282.index
-3901287331.index
 1290639992.index
+3068512991.index
+3901287331.index
+1106287282.index
 3640249096.index
 1491839987.index
 1602645994.index
@@ -37,4 +37,5 @@ INDEX VERSION 1.131+C:\Users\Rigel\Documents\URI Online Judge + exercicios\Java 
 3252877897.index
 2016933426.index
 32198294.index
+1266703969.index
 3331276368.index
