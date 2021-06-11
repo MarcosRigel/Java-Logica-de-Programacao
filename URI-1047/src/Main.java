@@ -1,4 +1,4 @@
-package URI_1047;
+package URI_1047; // Lembrete: quando enviar para o uri não selecione o pacote
 
 import java.util.Scanner;
 
