@@ -7,14 +7,18 @@ public class Main {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
         
-        double A, B, C, soma, resultado;
+        double A, B, C, resultado;
         
         A = sc.nextDouble();
         B = sc.nextDouble();
         C = sc.nextDouble();
         resultado = 0;
         
+<<<<<<< HEAD
         if (A < B + C && B < A + C && C < A + B) {
+=======
+        if (A < B + C && B < A + C && C < B + A) {
+>>>>>>> edcc7b52b5548b7accdf0d50250fa1150d72a799
             resultado = A + B + C;
             System.out.printf("Perimetro = %.1f%n", resultado);
         } else {
