@@ -12,10 +12,9 @@ public class Main {
         A = sc.nextDouble();
         B = sc.nextDouble();
         C = sc.nextDouble();
-        soma = B + C;
         resultado = 0;
         
-        if (soma > A) {
+        if (A < B + C && B < A + C && C < A + B) {
             resultado = A + B + C;
             System.out.printf("Perimetro = %.1f%n", resultado);
         } else {
