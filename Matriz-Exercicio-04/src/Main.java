@@ -17,8 +17,8 @@ public class Main {
         
         for (int i = 0; i < N; i++) {
                 soma = soma + mat[i][i];
-            }
-            System.out.println(soma);
+        }
+        System.out.println(soma);
         
         sc.close();
     }
