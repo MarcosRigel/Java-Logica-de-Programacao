@@ -17,7 +17,7 @@ public class Main {
             maior = x;
         }
         
-        for (int i = 0; i <= maior; i++) {
+        for (int i = menor; i <= maior; i++) {
             if (i % 13 != 0) {
                 soma = soma + i;
             }
