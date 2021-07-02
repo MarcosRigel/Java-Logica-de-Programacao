@@ -8,9 +8,9 @@ public class Main {
        int N = sc.nextInt();
        int fatorial = 1;
        
+
         for (int i = 1; i <= N; i++) 
-            fatorial = fatorial * i;
-        
+            fatorial = fatorial * i;        
         
         System.out.println(fatorial);
        
