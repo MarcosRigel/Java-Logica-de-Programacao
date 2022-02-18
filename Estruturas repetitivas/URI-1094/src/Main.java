@@ -39,6 +39,7 @@ public class Main {
         double porcentagemSapos = (double)sapos / total * 100.0;
         
         System.out.println("Total: " + total + " cobaias");
+        System.out.println("Total de coelhos: " + coelhos);
         System.out.println("Total de ratos: " + ratos);
         System.out.println("Total de sapos: " + sapos);
         System.out.println("Percentual de coelhos: " + String.format("%.2f", ( (double) coelhos / total) * 100) + " %");
