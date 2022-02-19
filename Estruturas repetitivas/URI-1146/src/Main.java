@@ -7,7 +7,6 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 		int x = sc.nextInt();
-		int contador = 0;
 		
 		while (x != 0) {
 			for (int i=1; i<=x; i++) {
