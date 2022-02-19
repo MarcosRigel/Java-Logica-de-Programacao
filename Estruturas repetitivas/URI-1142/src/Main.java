@@ -14,7 +14,7 @@ public class Main {
             contador += 1;
             System.out.print(contador + " ");
             contador += 1;
-            System.out.print(contador + " PUM");
+            System.out.println(contador + " PUM");
             contador += 2;
         }
         
